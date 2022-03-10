@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRABORS</title>
+    <link href="../estilos/estilos-brabors.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+</head>
+<body>
+    <h1>BRABORS</h1>
+    <h2>OS CAVALEIROS DO APOCALIPSE</h2>
+    <img src="../imagens/brabors.jpg" alt="">
+    <p>Brabors é um grupo de amigos onde a conversa e focada em:</p>
+
+        <ul>
+            <li>POLITICA</li>
+            <li>VIDA DOS OUTROS</li>
+            <li>PIX</li>
+            <li>ROLÊ</li>
+        </ul>
+    <P><strong>QUEM SÃO OS MEMBROS?</strong></P>
+    <P>1-<strong>ADM DESCABAÇADO:</strong>com o humor apurado o Gabriel é besta pra mulher e não é mais cabaço, o Adm é alguem sincero e tímido, e querido por nós.</P>
+    <img src="../imagens/admm.jpg" alt="ELE NÂO È CADEIRANTE">
+    <p>2-<strong>DOM COMÉDIA:</strong>	Com	o	humor	apurado	o	Thiago	é	cheio	de	muié
+        atrás	dele	mas	é	besta	pra	mulher	também	é	só	quer	um	
+        relacionamento	duradouro,	enquanto	não	tem	ele	se	aventura	com	
+        as	que	aparecem,	é	o	porta	voz	dos	brabors	na	internet	e	carrega	o	
+        humor	do	grupo	nas	costas,	todo	fudido	de	saúde	e	muito	legal.</p>
+        <img src="../imagens/dom-comedia.jpg" alt="">
+        <p>3-<strong>Mulekinho	do	Badalasson:</strong>	Com	o	humor	apurado	o	Ítalo	é	besta	pra	
+            mulher	e	mesmo	assim	não	pega	ninguém	além	das	parentes,	é	
+            engraçado	é	vive	puto,	além	de	ser	perito	na	cultura	dos	cabuçus,	
+            ele	também	entende	muito	bem	quando	o	assunto	é	falar	mal	de	
+            uma	pessoa	específica	que	é	sua	maior	inimiga,	todos	já	sabem	não
+            de	quem	se	trata.
+            </p>
+            <img src="../imagens/mlk-badalasson.jpg" alt="">
+            <p>4-<strong>Motoqueiro	Pantarma/	Inimigo	do	Ibama:</strong>	Com	o	humor	apurado	o	
+                Vinicius	é	o	terror	das	piriquita,	além	de	ser	o	supremo	do	grupo	ele	
+                não	aparece	frequentemente	pois	é	muito	ocupado	mantendo	o	
+                equilíbrio	do	universo,	devora	animais	selvagens	na	unha	e	sempre	
+                trás	histórias	inusitadas	para	o	grupo,	além	de	poder	partir	a	
+                qualquer	momento	para	outro	plano,	pois	o	mesmo	possui	uma	
+                moto.</p>
+                <img src="..//imagens/motoqueiro.jpg" alt="">
+
+                <a href="https://www.facebook.com/braborsf/">Página no Facebook</a>
+                <br>
+                <a href="https://www.instagram.com/kazuto.vk//">CEO DO SITE</a>
+                <button>Mudar usuário</button>
+                <script src="../scripts/brabors.js"></script>
+                
+               
+</body>
+</html>
